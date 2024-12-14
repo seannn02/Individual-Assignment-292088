@@ -14,7 +14,7 @@ This is a program that explore and analyze the closing prices of stocks for the 
 * Download and install Python 3.8 or higher. [Click me to download](https://www.python.org/downloads/)
 
 ## 2. Install Visual Studio Code
-- Download Visual Studio Code from [Click me again to download:stuck_out_tongue_closed_eyes:](https://code.visualstudio.com/)
+- Download Visual Studio Code from [Click me again to download :stuck_out_tongue_closed_eyes:](https://code.visualstudio.com/)
 
 ## 3. Install extensions Python, yfinance and pandas in Visual Studio Code
 - Click on extension logo on the left hand side of Visual Studio Code, then search Python and install it.
@@ -28,4 +28,4 @@ pip install pandas
 ```
 
 ## 4. Run the program
-- Copy the coding of main.py file and functions.py file into your Visual Studio code and run it.:partying_face:
+- Copy the coding of main.py file and functions.py file into your Visual Studio code and run it. :partying_face:
